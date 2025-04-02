@@ -18,7 +18,7 @@
 
 ### Prerequisites
 
-  “*” Python 3.x
+  “*”Python 3.x
 
   “*” Telegram Bot API Key
 
@@ -27,7 +27,7 @@
   ### Setup
 
   #### 1. Clone the repository
-    ```bash 
+    ``` bash 
     git clone https://github.com/yourusername/BountyHunter.git
     cd BountyHunter
     ```
